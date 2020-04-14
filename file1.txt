@@ -5,3 +5,4 @@ Good bye!
 line from user2
 line from user1
 7777777
+line from user1 - lessom about rebase
